@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # 2. versão Menor(MINOR): quando adicionar funcionalidades mantendo compatibilidade, e
 # 3. versão de Correção(PATCH): quando corrigir falhas mantendo compatibilidade.
 
-version = '1.0.0'
+version = '1.0.1'
 dolar   = eval(input('Digite o total em $USD: '))
 today = date.today()
 
