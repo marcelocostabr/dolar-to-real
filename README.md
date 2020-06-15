@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/issues/marcelocostabr/dolar-to-real)
+![](https://img.shields.io/github/forks/marcelocostabr/dolar-to-real)
+![](https://img.shields.io/github/stars/marcelocostabr/dolar-to-real)
+![](https://img.shields.io/github/license/marcelocostabr/dolar-to-real)
+
 # Dólar to Real
 Code that do the currency exchange between USD Dolar to BRL Brazilian Reais plus the bancary spread and IOF.
 
